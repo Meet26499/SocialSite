@@ -21,7 +21,7 @@ SocialSite provides registration and login functionality with social platform. I
 Follow these steps to set up the SocialSite project on your local system:
 
 1. #### Clone the Repository:
-    ```git clone https://github.com/Meet26499/SocialSite```
+    ```git clone https://github.com/Meet26499/SocialSite.git```
 
 2. #### Create an Environment File:
     Create an environment file (.env) and add the necessary variables to configure the project. You will need to set up environment variables for Social Auth login for Facebook, Google and Apple.
